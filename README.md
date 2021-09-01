@@ -29,3 +29,9 @@ learn repo
  | *Data Science* | *Discrete Math* | *University Seminar*| *Computer Science*|
  |Dr. Shoemaker| Randy Davila| Damaris Cortez| Dr. Kamto| 
  
+ 
+ _Ariana Grande_
+```
+Don't need permission, made my decision to test my limits.
+
+```
